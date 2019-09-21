@@ -4,6 +4,6 @@
 2 页面重定向  
 3 Cookie技术  
 4 Session技术  
-5 JDBC连接MySQL
+5 JDBC连接MySQL  
 6 一点JSP  
 7 ...
