@@ -1,0 +1,9 @@
+## Servlet学习------登陆注册模块  
+* 相关知识点：  
+1 请求转发  
+2 页面重定向  
+3 Cookie技术  
+4 Session技术  
+5 JDBC连接MySQL
+6 一点JSP
+7 ...
